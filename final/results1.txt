@@ -1,0 +1,120 @@
+=========================================
+Naive implementation: Rows - 8   Iterations - 1000
+Total execution time:            0.000000 seconds
+Per iteration execution time:    0.000000 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 8    Iterations - 1000       Tiles - 2
+Total execution time:            0.015000 seconds
+Per iteration execution time:    0.000015 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 8    Iterations - 1000       Tiles - 4
+Total execution time:            0.000000 seconds
+Per iteration execution time:    0.000000 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 8    Iterations - 1000       Tiles - 8
+Total execution time:            0.016000 seconds
+Per iteration execution time:    0.000016 seconds
+=========================================
+=========================================
+Naive implementation: Rows - 32          Iterations - 1000
+Total execution time:            0.156000 seconds
+Per iteration execution time:    0.000156 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 32   Iterations - 1000       Tiles - 2
+Total execution time:            0.219000 seconds
+Per iteration execution time:    0.000219 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 32   Iterations - 1000       Tiles - 4
+Total execution time:            0.250000 seconds
+Per iteration execution time:    0.000250 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 32   Iterations - 1000       Tiles - 8
+Total execution time:            0.234000 seconds
+Per iteration execution time:    0.000234 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 32   Iterations - 1000       Tiles - 16
+Total execution time:            0.250000 seconds
+Per iteration execution time:    0.000250 seconds
+=========================================
+=========================================
+Naive implementation: Rows - 256         Iterations - 100
+Total execution time:            9.157000 seconds
+Per iteration execution time:    0.091570 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 256          Iterations - 100        Tiles - 2
+Total execution time:            11.984000 seconds
+Per iteration execution time:    0.119840 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 256          Iterations - 100        Tiles - 4
+Total execution time:            11.766000 seconds
+Per iteration execution time:    0.117660 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 256          Iterations - 100        Tiles - 8
+Total execution time:            11.499000 seconds
+Per iteration execution time:    0.114990 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 256          Iterations - 100        Tiles - 16
+Total execution time:            11.297000 seconds
+Per iteration execution time:    0.112970 seconds
+=========================================
+=========================================
+Naive implementation: Rows - 512         Iterations - 100
+Total execution time:            97.954000 seconds
+Per iteration execution time:    0.979540 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 512          Iterations - 100        Tiles - 2
+Total execution time:            131.016000 seconds
+Per iteration execution time:    1.310160 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 512          Iterations - 100        Tiles - 4
+Total execution time:            101.733000 seconds
+Per iteration execution time:    1.017330 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 512          Iterations - 100        Tiles - 8
+Total execution time:            99.578000 seconds
+Per iteration execution time:    0.995780 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 512          Iterations - 100        Tiles - 16
+Total execution time:            99.688000 seconds
+Per iteration execution time:    0.996880 seconds
+=========================================
+=========================================
+Naive implementation: Rows - 1024        Iterations - 10
+Total execution time:            233.672000 seconds
+Per iteration execution time:    23.367200 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 1024         Iterations - 10         Tiles - 2
+Total execution time:            114.891000 seconds
+Per iteration execution time:    11.489100 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 1024         Iterations - 10         Tiles - 4
+Total execution time:            112.375000 seconds
+Per iteration execution time:    11.237500 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 1024         Iterations - 10         Tiles - 8
+Total execution time:            110.875000 seconds
+Per iteration execution time:    11.087500 seconds
+=========================================
+=========================================
+Tile implementation: Rows - 1024         Iterations - 10         Tiles - 16
+Total execution time:            83.750000 seconds
+Per iteration execution time:    8.375000 seconds
+=========================================
